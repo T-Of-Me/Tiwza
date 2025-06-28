@@ -22,7 +22,7 @@ image = "img/logo.png"
 #   headline = "I'm only human"
 #   bio = "A little bit about you"
 links = [
-  {email = "https://www.youtube.com/@TungPhan-qf4tu"},
+  {youtube = "https://www.youtube.com/@TungPhan-qf4tu"},
 ]
 #     { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
