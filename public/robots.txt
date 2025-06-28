@@ -1,1 +1,3 @@
 User-agent: *
+Allow: /
+Sitemap: https://t-of-me.github.io/Tiwza/sitemap.xml
