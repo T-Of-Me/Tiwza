@@ -11,8 +11,8 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
+baseURL = "https://t-of-me.github.io/Tiwza/"
 name = "tungtungtung"
-url = "https://t-of-me.github.io/Tiwza/"
 weight = 10
 
 #[[main]]
