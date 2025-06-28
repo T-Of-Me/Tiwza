@@ -40,8 +40,8 @@ youtube = "https://www.youtube.com/@TungPhan-qf4tu"
 # [[params.author.links]]
 # instagram = "https://instagram.com/username"
 
-# [[params.author.links]]
-# facebook = "https://facebook.com/username"
+[[params.author.links]]
+youtube = "https://www.youtube.com/@TungPhan-qf4tu"
 
 # Thêm các links khác theo format:
 # [[params.author.links]]
